@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shiva1706
-- 👀 I’m interested in Python, Machine Learning, Depp Learning and Web Development.
-- 🌱 I’m currently learning Machine learning.
+- 👀 I’m interested in Python, Machine Learning, Depp Learning and Flutter app Development.
+- 🌱 I’m currently learning Machine learning and Flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
