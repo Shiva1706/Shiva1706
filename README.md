@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivansh Singh
-- 👀 I have good hand in Python, Flutter Application Development and Front-End Web Development.
-- 🌱 I’m currently learning Machine learning and Flutter.
-- 💞️ I’m looking to collaborate on Web dvelopment or Flutter App Development
+- 💞️ I have good hand in Python, Flutter Application Developmentm, Front-End Web Development (React.js) and Java.
+- 🌱 I’m currently learning React.js and Flutter.
+- 👀 I’m looking to Web dvelopment or Flutter App Development collaboration or internship.
 - 📫 How to reach me - shivansh.singh20021@gmail.com; https://www.linkedin.com/in/shivansh-singh-258840193/
 
 <!---
