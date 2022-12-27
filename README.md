@@ -36,6 +36,8 @@
     <img src="https://e7.pngegg.com/pngimages/205/972/png-clipart-node-js-javascript-express-js-npm-mongodb-others-text-logo-thumbnail.png" alt="express" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiva1706&show_icons=true&locale=en&layout=compact" alt="shiva1706" /></p>
