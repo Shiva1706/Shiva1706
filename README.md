@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="175px" src="https://img.search.brave.com/iWVAGNWKYsECnMfSoGuz86EXEWDOI3T5zMX9EbvgKJo/rs:fit:1200:360:1/g:ce/aHR0cHM6Ly93d3cu/dXhlYnUuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE1LzA1/L3V4ZWJ1X2Jhbm5l/cl9sb3ZlXzE5MDN4/MzUwLmpwZw" alt=""></a>
 <h1 align="center">Hi 👋, I'm Shivansh Singh</h1>
-<h3 align="center">A passionate Javascript and frontend developer from India</h3>
+<h3 align="center">A passionate Javascript and Frontend developer from India</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://img.search.brave.com/N-JCMlTqsJSEJ4T31LcP0ZO6TMcue3wsrZWBJw2vvqU/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5L/cXZpUjdpaXVPcHlU/elI0SXdpVUdRSGFG/aiZwaWQ9QXBp">
 
